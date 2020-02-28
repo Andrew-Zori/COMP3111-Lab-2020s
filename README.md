@@ -2,4 +2,6 @@
 It's a laaaab
 
 Student name: ZHOU Zhuorui\
-Student id: 20492766
+Student id: 20492766\
+
+![](ScreenShotForLabOne.png)
